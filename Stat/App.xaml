@@ -1,0 +1,54 @@
+﻿<Application x:Class="Stat.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Stat"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+        <Style TargetType="PasswordBox">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+        <Style TargetType="ListView">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+        <Style TargetType="ListViewItem">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище HorHeadModelContainer" CdmEntityContainer="HorHeadEntities">
+    <EntitySetMapping Name="Comments">
+      <EntityTypeMapping TypeName="HorHeadModel.Comments">
+        <MappingFragment StoreEntitySet="Comments">
+          <ScalarProperty Name="id_com" ColumnName="id_com" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Body" ColumnName="Body" />
+          <ScalarProperty Name="User_id" ColumnName="User_id" />
+          <ScalarProperty Name="State_id" ColumnName="State_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="HorHeadModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="States">
+      <EntityTypeMapping TypeName="HorHeadModel.States">
+        <MappingFragment StoreEntitySet="States">
+          <ScalarProperty Name="id_state" ColumnName="id_state" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Body" ColumnName="Body" />
+          <ScalarProperty Name="Files" ColumnName="Files" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="Creator" ColumnName="Creator" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="HorHeadModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="Role_id" ColumnName="Role_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

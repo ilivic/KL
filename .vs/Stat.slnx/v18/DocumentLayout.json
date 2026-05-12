@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|c:\\users\\ilivic\\desktop\\rb\\3\\stat\\stat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|c:\\users\\ilivic\\desktop\\rb\\3\\stat\\stat\\pagesapp\\pagemenu.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pagemenu.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageshowmycomm.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageshowmycomm.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageshowmycomm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageshowmycomm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageaddnewstate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageaddnewstate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageshowstates.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageshowstates.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pagechuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pagechuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pagechuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pagechuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageshowcorrstate.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageshowcorrstate.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageshowstates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageshowstates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\pagesapp\\pageaddnewstate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\pagesapp\\pageaddnewstate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\stat\\classapp\\classcorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DAF7E9-F0AC-483B-94EB-2AF34C383386}|Stat\\Stat.csproj|solutionrelative:stat\\classapp\\classcorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Stat\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\MainWindow.xaml",
+              "RelativeToolTip": "Stat\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T10:13:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageShowMyComm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowMyComm.xaml.cs",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageShowMyComm.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowMyComm.xaml.cs",
+              "RelativeToolTip": "Stat\\PagesApp\\PageShowMyComm.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:46:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageShowMyComm.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowMyComm.xaml",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageShowMyComm.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowMyComm.xaml",
+              "RelativeToolTip": "Stat\\PagesApp\\PageShowMyComm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T09:46:05.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagesApp\\PageAddNewState.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageAddNewState.xaml.cs",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageAddNewState.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageAddNewState.xaml.cs",
+              "RelativeToolTip": "Stat\\PagesApp\\PageAddNewState.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:08:50.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageAddNewState.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageAddNewState.xaml",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageAddNewState.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageAddNewState.xaml",
+              "RelativeToolTip": "Stat\\PagesApp\\PageAddNewState.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T09:06:27.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagesApp\\PageChUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageChUser.xaml.cs",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageChUser.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageChUser.xaml.cs",
+              "RelativeToolTip": "Stat\\PagesApp\\PageChUser.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:57:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageMenu.xaml",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageMenu.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageMenu.xaml",
+              "RelativeToolTip": "Stat\\PagesApp\\PageMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T08:45:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageMenu.xaml.cs",
+              "RelativeToolTip": "Stat\\PagesApp\\PageMenu.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:55:23.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageShowStates.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowStates.xaml",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageShowStates.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowStates.xaml",
+              "RelativeToolTip": "Stat\\PagesApp\\PageShowStates.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T09:20:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagesApp\\PageShowStates.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowStates.xaml.cs",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageShowStates.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowStates.xaml.cs",
+              "RelativeToolTip": "Stat\\PagesApp\\PageShowStates.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:22:14.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageChUser.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageChUser.xaml",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageChUser.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageChUser.xaml",
+              "RelativeToolTip": "Stat\\PagesApp\\PageChUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T08:56:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageShowCorrState.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowCorrState.xaml.cs",
+              "RelativeDocumentMoniker": "Stat\\PagesApp\\PageShowCorrState.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\PagesApp\\PageShowCorrState.xaml.cs",
+              "RelativeToolTip": "Stat\\PagesApp\\PageShowCorrState.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwCwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:28:10.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassCorr.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\ClassApp\\ClassCorr.cs",
+              "RelativeDocumentMoniker": "Stat\\ClassApp\\ClassCorr.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\RB\\3\\Stat\\Stat\\ClassApp\\ClassCorr.cs",
+              "RelativeToolTip": "Stat\\ClassApp\\ClassCorr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:51:06.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
